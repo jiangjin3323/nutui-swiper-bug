@@ -1,7 +1,7 @@
 # React+Ts+Taro基础项目模版
 
 #### 介绍
-基于React+Ts+Taro的基础项目模版
+nutui（小程序）运行H5环境下swiper组件报错
 
 #### 软件架构
 软件架构说明
